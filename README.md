@@ -6,5 +6,5 @@ Open server folder and run -
 python server.py # to run server
 Then open app.html from client folder separately.
 
-- Dataset
+- Dataset<br>
 Used Cust_churn.csv file as dataset.
