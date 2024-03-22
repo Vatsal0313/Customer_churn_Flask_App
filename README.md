@@ -1,10 +1,9 @@
 # Customer_churn_Flask_App
 Predicting when customers are likely to churn
 
-<b>- How to run Flask app.</b><br>
-Open server folder and run - <br>
-python server.py # to run server <br>
-Then open app.html from client folder separately. <br>
+<b>How to run Flask app.</b><br>
+In server folder run  - python server.py <br>
+In client folder open - app.html <br>
 
 Dataset : [cust_churn.csv](https://github.com/Vatsal0313/Customer_churn_Flask_App/blob/main/model/Customer_Churn.csv).<br>
 - Overview: <br>
