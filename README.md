@@ -6,7 +6,7 @@ Open server folder and run - <br>
 python server.py # to run server <br>
 Then open app.html from client folder separately. <br>
 
-Dataset : [Cust_churn.csv](https://github.com/Vatsal0313/Customer_churn_Flask_App/blob/main/model/Customer_Churn.csv) file as dataset. <br>
+Dataset : [cust_churn.csv](https://github.com/Vatsal0313/Customer_churn_Flask_App/blob/main/model/Customer_Churn.csv).<br>
 - Overview: <br>
 The dataset contains the following columns: 
 <br>`customerID`: Customer ID 
