@@ -6,8 +6,7 @@ In server folder run  - python server.py <br>
 In client folder open - app.html <br>
 
 Dataset : [cust_churn.csv](https://github.com/Vatsal0313/Customer_churn_Flask_App/blob/main/model/Customer_Churn.csv).<br>
-- Overview: <br>
-The dataset contains the following columns: 
+- Dataset contains the following columns: : <br>
 <br>`customerID`: Customer ID 
 <br>`gender`: Customer's gender 
 <br>`SeniorCitizen`: Whether the customer is a senior citizen (1 for yes, 0 for no) 
