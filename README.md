@@ -7,4 +7,4 @@ python server.py # to run server <br>
 Then open app.html from client folder separately. <br>
 
 - Dataset<br>
-Used Cust_churn.csv file as dataset.
+Used [Cust_churn.csv](https://github.com/Vatsal0313/Customer_churn_Flask_App/blob/main/model/Customer_Churn.csv) file as dataset.
