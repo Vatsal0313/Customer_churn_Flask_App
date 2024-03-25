@@ -1,4 +1,4 @@
-# Customer_churn_Flask_App
+# Customer churn Flask App
 Predicting when customers are likely to churn
 
 <b>How to run Flask app.</b><br>
