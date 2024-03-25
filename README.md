@@ -28,3 +28,6 @@ Dataset : [cust_churn.csv](https://github.com/Vatsal0313/Customer_churn_Flask_Ap
 <br>`MonthlyCharges`: Monthly charges 
 <br>`TotalCharges`: Total charges 
 <br>`Churn`: Target variable, indicating whether the customer churned (1 for yes, 0 for no)   
+
+APP UI
+![image](https://github.com/Vatsal0313/Customer_churn_Flask_App/assets/117883036/8b2c7545-6769-4227-8f9b-9b28d18b3a24)
